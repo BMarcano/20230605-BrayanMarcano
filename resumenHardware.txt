@@ -1,0 +1,4 @@
+i. Listar 3 memorias principales de la computadora.
+1- Memoria RAM
+2- Memoria ROM
+3- Memoria de almacenamiento

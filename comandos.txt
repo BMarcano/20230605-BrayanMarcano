@@ -1,0 +1,20 @@
+ 95  git init
+    96  git branch -M main
+    97  git remote add origin https://github.com/BMarcano/20230605-BrayanMarcanogit
+   98  git push origin main
+   99  touch comandos.txt main.js index.html
+  100  git status
+  101  git add .
+  102  git commit -am "commit 01 de BrayanMarcano"
+  103  git push origin main
+  104  git checkout -b feature
+  105  mkdir Hardware Software SeguridadInformatica
+  106  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resmen.txt
+  107  git add .
+  108  git commit -am "Commit 02 de BrayanMarcano"
+  109  git push origin feature
+  110  git checkout main
+  111  mv main.js resumenHardware.txt
+  112  mv index.html resumenSoftware.txt
+  113  code .
+  114  history
